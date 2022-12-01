@@ -1,9 +1,9 @@
 ### Dwonload&Install
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+### git clone https://github.com/Apo11onoff/Simple-DDoS-
 
-### cd DDos-Attack
+### cd Simple-DDoS-
 
-### chmod +x ddos-attack.py
+### chmod +x simp_ddos.py
 
-### python ddos-attack.py
+### python simp_ddos.py
